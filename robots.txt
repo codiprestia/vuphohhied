@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahchughep.vojtovo.eu/sitemap.xml
